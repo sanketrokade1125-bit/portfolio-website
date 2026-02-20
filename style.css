@@ -1,0 +1,47 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f6f8;
+  text-align: center;
+}
+
+header {
+  background: #2196f3;
+  color: white;
+  padding: 40px 20px;
+}
+
+.projects {
+  padding: 30px;
+}
+
+.project-card {
+  background: white;
+  margin: 15px auto;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.project-card a {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  background: #2196f3;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 5px;
+}
+
+.contact {
+  background: #222;
+  color: white;
+  padding: 20px;
+}
+
+footer {
+  background: #111;
+  color: white;
+  padding: 10px;
+}
